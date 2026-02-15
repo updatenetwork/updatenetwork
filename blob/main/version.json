@@ -1,0 +1,9 @@
+{
+  "version": "2.1.0",
+  "force_update": true,
+  "mirrors": [
+    "https://pixeldrain.com/api/file/A1b2C3d4",
+    "https://files.catbox.moe/xyz123.zip",
+    "https://kappa.lol/abc.zip"
+  ]
+}
